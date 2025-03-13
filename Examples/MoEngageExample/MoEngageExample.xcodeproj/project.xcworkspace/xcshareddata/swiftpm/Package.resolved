@@ -1,0 +1,33 @@
+{
+  "originHash" : "61fed1366b4e22ff4e8deb7c56a70754b575a5ead77863c13c431737eeb82c15",
+  "pins" : [
+    {
+      "identity" : "example",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/benMohamed/Example",
+      "state" : {
+        "branch" : "main",
+        "revision" : "2f51191636933d15a24097e8bef7054af538f60b"
+      }
+    },
+    {
+      "identity" : "journify-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/journifyio/journify-ios-sdk",
+      "state" : {
+        "revision" : "291e03678f37aa08d53e5f3ed5fc7b39c31c76fc",
+        "version" : "0.1.9"
+      }
+    },
+    {
+      "identity" : "moengage-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/moengage/MoEngage-iOS-SDK.git",
+      "state" : {
+        "revision" : "30f0a4eb94d30e9a070439508f9a5399a67f1797",
+        "version" : "9.22.2"
+      }
+    }
+  ],
+  "version" : 3
+}

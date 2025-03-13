@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Journify",
+        "repositoryURL": "https://github.com/journifyio/journify-ios-sdk",
+        "state": {
+          "branch": null,
+          "revision": "291e03678f37aa08d53e5f3ed5fc7b39c31c76fc",
+          "version": "0.1.9"
+        }
+      },
+      {
+        "package": "MoEngage-iOS-SDK",
+        "repositoryURL": "https://github.com/moengage/MoEngage-iOS-SDK.git",
+        "state": {
+          "branch": null,
+          "revision": "30f0a4eb94d30e9a070439508f9a5399a67f1797",
+          "version": "9.22.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
