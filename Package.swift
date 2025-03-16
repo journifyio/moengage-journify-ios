@@ -1,6 +1,3 @@
-// swift-tools-version:5.3
-// This file generated from post_build script, modify the script instaed of this file.
-
 // swift-tools-version: 5.7
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
@@ -22,7 +19,7 @@ let package = Package(
     dependencies: [
         .package(
             name: "Journify",
-            url: "https://github.com/journifyio/journify-ios-sdk",
+            url: "https://github.com/journifyio/journify-ios-sdk.git",
             from: "0.1.9"),
         .package(
             name: "MoEngage-iOS-SDK",
